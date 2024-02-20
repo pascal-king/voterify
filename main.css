@@ -1,0 +1,80 @@
+body {
+  align-items: center;
+  justify-content: center;
+  background-image: url(pexels-gmb-visuals-17028796.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+button {
+  border: none;
+  background-color: #1877f2;
+  color: white;
+  margin: auto;
+  width: 283px;
+  display: block;
+  border-radius: 5px;
+  padding: 10px 0;
+  font-weight: bold;
+}
+
+.firstdiv {
+  text-align: center;
+  background-image: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: beige;
+}
+
+.twodiv {
+  text-align: center;
+  background-image: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: beige;
+}
+
+.tridiv {
+  text-align: center;
+  background-image: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: beige;
+}
+
+.fourdiv {
+  text-align: center;
+  background-image: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: beige;
+}
+
+.fivediv {
+  text-align: center;
+  background-image: url(image.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: beige;
+}
+
+p {
+  color: white;
+  background-color: black;
+  font-size: 20px;
+}
+
+h1 {
+  background-color: black;
+  border-radius: 25px;
+}
+
+a {
+  color: white;
+  background-color: black;
+  border-radius: 15px;
+}
+
+footer {
+  background-color: white;
+}
